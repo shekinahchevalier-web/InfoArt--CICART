@@ -1,2 +1,2 @@
 # InfoArt--CICART
-Les informations sur les arts
+Informations sur les arts
